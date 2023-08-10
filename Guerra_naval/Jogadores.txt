@@ -1,0 +1,20 @@
+Vitoria!
+Jogador: leuzao
+Tentativas: 3
+
+Vitoria!
+Jogador: Gui
+Tentativas: 4
+
+Vitoria!
+Jogador: Gabriel
+Tentativas: 10
+
+Vitoria!
+Jogador: django
+Tentativas: 3
+
+Vitoria!
+Jogador: opa
+Tentativas: 7
+

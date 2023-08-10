@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "stdbool.h": "c",
+        "funcao.h": "c",
+        "aloca_memoria.h": "c"
+    }
+}
